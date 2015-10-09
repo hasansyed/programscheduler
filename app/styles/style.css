@@ -1,0 +1,35 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    color:#333;
+}
+
+h2{
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.cover{
+    background-color: #ECF0F1;
+    padding-top: 8px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    margin-bottom: 2px;
+}
+
+H1,H2,H3,H4,H5,H6{color: #2D3D52;}
+
+.site-footer{
+    height: 100px;
+    background-color: #ECF0F1;
+    padding-top: 30px;
+}
+
+
+.navbar-default .navbar-nav > li > a {
+  color: #fff;
+  font-size: 12px;
+  text-transform: uppercase;
+}
